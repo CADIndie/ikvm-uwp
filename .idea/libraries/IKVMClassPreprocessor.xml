@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="IKVMClassPreprocessor">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/IKVMClassPreprocessor/bin/IKVMClassPreprocessor.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

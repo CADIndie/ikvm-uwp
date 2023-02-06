@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="IKVM.Runtime">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/runtime/IKVM.Runtime.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ikvm-api">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/ikvm-api.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

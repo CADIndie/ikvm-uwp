@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="openjdk">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/openjdk/vfs.zip!/" />
+      <root url="jar://$PROJECT_DIR$/openjdk/System.Core.jar!/" />
+      <root url="jar://$PROJECT_DIR$/openjdk/System.Data.jar!/" />
+      <root url="jar://$PROJECT_DIR$/openjdk/mscorlib.jar!/" />
+      <root url="jar://$PROJECT_DIR$/openjdk/System.Xml.jar!/" />
+      <root url="jar://$PROJECT_DIR$/openjdk/System.Drawing.jar!/" />
+      <root url="jar://$PROJECT_DIR$/openjdk/System.jar!/" />
+      <root url="jar://$PROJECT_DIR$/openjdk/resources.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

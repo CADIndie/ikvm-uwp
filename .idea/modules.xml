@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/IKVMClassPreprocessor/IKVMClassPreprocessor.iml" filepath="$PROJECT_DIR$/IKVMClassPreprocessor/IKVMClassPreprocessor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/classpath/classpath.iml" filepath="$PROJECT_DIR$/classpath/classpath.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ikvm-uwp.iml" filepath="$PROJECT_DIR$/ikvm-uwp.iml" />
+    </modules>
+  </component>
+</project>
